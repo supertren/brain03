@@ -3,7 +3,7 @@
 Creating a simple AI for my Browser with JavaScript and Brain JS
 
 
-![brainjs](https://github.com/supertren/brain02/blob/master/logo.svg)
+![brainjs](https://github.com/supertren/brain02/blob/master/brain.png)
 
 Brain JS is a fantastic way to build neural networks using JavaScript. 
  * It is a JavaScript library used for neural networking.
