@@ -15,7 +15,7 @@ Brain JS is a fantastic way to build neural networks using JavaScript.
 First clone the repo, then install node libraries and launch node http-server:
 
 ```
-  git clone https://github.com/supertren/brain02.git
+  git clone https://github.com/supertren/brain03.git
   cd brain02/
   npm init -y
   npm in brain.js
