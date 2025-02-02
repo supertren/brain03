@@ -16,7 +16,7 @@ First clone the repo, then install node libraries and launch node http-server:
 
 ```
   git clone https://github.com/supertren/brain03.git
-  cd brain02/
+  cd brain03/
   npm init -y
   npm in brain.js
   npm i gpu.js
